@@ -11,6 +11,7 @@ export const useProfileStore = create<ProfileConfig>()(
       profile: config.profile,
       socialLinks: config.socialLinks,
       websiteLinks: config.websiteLinks,
+      friendsLinks: config.friendsLinks,
     }),
     { name: 'duckfolio-storage' }
   )

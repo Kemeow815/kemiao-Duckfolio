@@ -1,6 +1,6 @@
 import { motion } from "framer-motion"
 import { ExternalLink, ChevronRight } from "lucide-react"
-import { WebsiteLink } from '@/types/platform-config';
+import { WebsiteLink, } from '@/types/platform-config';
 
 interface LinksProps {
     websiteLinks: WebsiteLink[]

@@ -1,6 +1,6 @@
 {
-    "name": "duckfolio",
-    "compatibility_date": "2024-09-23",
+    "name": "kemiao-duckfolio",
+    "compatibility_date": "2025-05-21",
     "compatibility_flags": [
       "nodejs_compat"
     ],

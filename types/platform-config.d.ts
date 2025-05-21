@@ -22,4 +22,5 @@ export interface ProfileConfig {
   profile: Profile;
   socialLinks: SocialLink[];
   websiteLinks: WebsiteLink[];
+  friendsLinks: friendsLink[];
 }

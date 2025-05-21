@@ -17,21 +17,21 @@ export function Footer({ name }: FooterProps) {
             </p>
             <div className="flex justify-center space-x-4">
                 <a
-                    href="https://github.com/Yorlg"
+                    href="https://github.com/Kemeow815"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-[var(--theme-primary)]  dark:hover:text-[var(--theme-secondary)] transition-colors"
                 >
-                    Yorlg
+                    克喵爱吃卤面
                 </a>
                 <span>•</span>
                 <a
-                    href="https://github.com/Yorlg/Duckfolio"
+                    href="https://github.com/Kemeow815/kemiao-Duckfolio"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-[var(--theme-primary)]  dark:hover:text-[var(--theme-secondary)] transition-colors"
                 >
-                    Duckfolio
+                    kemiao-Duckfolio
                 </a>
             </div>
         </motion.footer>

@@ -1,41 +1,65 @@
 {
   "profile": {
-    "name": "Yorlg",
+    "name": "克喵爱吃卤面",
     "bio": "欢迎来到我的个人主页.",
-    "avatar": "/avatar.png"
+    "avatar": "/kemiao.jpg"
   },
   "socialLinks": [
     {
       "id": "github",
       "platform": "GitHub",
-      "url": "https://github.com/Yorlg",
+      "url": "https://github.com/Kemeow815",
       "icon": "<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22'></path></svg>"
     },
     {
       "id": "email",
       "platform": "Email",
-      "url": "mailto:i@yorlg.net",
+      "url": "mailto:me@kemiaosw.top",
       "icon": "<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'><path fill='currentColor' d='M4 20q-.825 0-1.412-.587T2 18V6q0-.825.588-1.412T4 4h16q.825 0 1.413.588T22 6v12q0 .825-.587 1.413T20 20zm8-7L4 8v10h16V8zm0-2l8-5H4zM4 8V6v12z'/></svg>"
     },
     {
       "id": "x",
       "platform": "Twitter",
-      "url": "https://x.com/Yorlg233",
+      "url": "https://x.com/kemiaosw",
       "icon": "<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'><path fill='currentColor' d='m17.687 3.063l-4.996 5.711l-4.32-5.711H2.112l7.477 9.776l-7.086 8.099h3.034l5.469-6.25l4.78 6.25h6.102l-7.794-10.304l6.625-7.571zm-1.064 16.06L5.654 4.782h1.803l10.846 14.34z'/></svg>"
     },
     {
       "id": "telegram",
       "platform": "Telegram",
-      "url": "https://t.me/Yorlg233",
+      "url": "https://t.me/KemiaoJun",
       "icon": "<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'><rect width='24' height='24' fill='none'/><path fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' d='m11.985 15.408l3.242 3.686c1.2 1.365 1.801 2.048 2.43 1.881c.628-.166.844-1.064 1.275-2.861l2.39-9.968c.665-2.768.997-4.151.259-4.834s-2.017-.175-4.575.84L5.14 8.865c-2.046.813-3.069 1.219-3.134 1.917a1 1 0 0 0 0 .214c.063.699 1.084 1.108 3.128 1.927c.925.371 1.388.557 1.72.912q.056.06.108.124c.306.38.436.88.697 1.876l.489 1.867c.253.97.38 1.456.713 1.522s.622-.336 1.201-1.141zm0 0l-.317-.33c-.362-.378-.543-.566-.543-.8s.18-.423.543-.8l3.573-3.724' color='currentColor'/></svg>"
+    },
+    {
+      "id": "qq",
+      "platform": "QQ",
+      "url": "https://qm.qq.com/q/m8FW8Y6TkY",
+      "icon": "<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 48 48'><path fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' d='M10.084 25.28a50 50 0 0 0 6.357 1.4v5.667h0c1.904.587 3.451.396 5.332.226v-5.348q1.14.055 2.235.055c4.354 0 9.317-.66 13.91-1.995m-1.768-4.209c-4.077 1.016-8.341 1.518-12.142 1.518c-3.805 0-8.076-.504-12.157-1.522m3.663 19.344c-7.93 2.724-2.357 3.723 6.608 2.678m10.369-2.682c7.95 2.728 2.37 3.728-6.606 2.68'/><g fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round'><path d='M11.917 20.913c-1.838 4.532-5.221 11.201-4.004 15.792c1.687-1.518 2.222-2.385 3.346-4.095c.05 4.61 4.766 10.595 12.741 10.595S36.692 37.22 36.74 32.61c1.125 1.71 1.66 2.577 3.347 4.095c1.217-4.59-2.166-11.26-4.004-15.792C37.06 10.989 31.607 4.463 24 4.5c-7.607.038-13.06 6.49-12.083 16.413'/><path d='M14.685 26.378c-1.7 8.31 1.402 15.544 9.314 15.544s11.013-7.231 9.316-15.54'/></g><g fill='none' stroke='currentColor'><path stroke-linecap='round' stroke-linejoin='round' d='M31.596 18.119c-1.016-1.379-4.662-1.73-7.588-1.73s-6.572.351-7.588 1.73c2.287 1.594 5.853 2.292 7.588 2.279s5.301-.685 7.588-2.28m-8.649-5.744c0 1.722-.98 3.119-2.19 3.119h0c-1.21 0-2.19-1.397-2.19-3.12s.98-3.118 2.19-3.118s2.19 1.396 2.19 3.119m6.503 0c0 1.722-.98 3.119-2.19 3.119h0c-1.21 0-2.19-1.397-2.19-3.12s.98-3.118 2.19-3.118h0c1.21 0 2.19 1.396 2.19 3.119'/><path stroke-linecap='round' stroke-linejoin='round' d='M25.957 12.769c.732-.714 1.497-.688 2.167-.37'/><circle cx='21.752' cy='12.853' r='.75' stroke-miterlimit='10'/></g></svg>"
+    },
+    {
+      "id": "music",
+      "platform": "网易云音乐",
+      "url": "https://music.163.com/#/playlist?id=13681647281",
+      "icon": "<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'><g fill='none' fill-rule='evenodd'><path d='m12.594 23.258l-.012.002l-.071.035l-.02.004l-.014-.004l-.071-.036q-.016-.004-.024.006l-.004.01l-.017.428l.005.02l.01.013l.104.074l.015.004l.012-.004l.104-.074l.012-.016l.004-.017l-.017-.427q-.004-.016-.016-.018m.264-.113l-.014.002l-.184.093l-.01.01l-.003.011l.018.43l.005.012l.008.008l.201.092q.019.005.029-.008l.004-.014l-.034-.614q-.005-.019-.02-.022m-.715.002a.02.02 0 0 0-.027.006l-.006.014l-.034.614q.001.018.017.024l.015-.002l.201-.093l.01-.008l.003-.011l.018-.43l-.003-.012l-.01-.01z'/><path fill='currentColor' d='M12.55 3.835a1.5 1.5 0 0 1-1.327 1.656c-3.307.366-6.016 3.365-6.016 7.239a6.77 6.77 0 0 0 11.283 5.047c1.474-1.319 1.785-3.3 1.243-5.062c-.24-.78-.608-1.415-1.04-1.886V12.5a4.487 4.487 0 0 1-4.486 4.487h-.13a4.357 4.357 0 0 1-4.356-4.357a5.785 5.785 0 0 1 5.785-5.785h.188v-1.05a3.296 3.296 0 0 1 6.037-1.827l.386.578a1.5 1.5 0 0 1-2.496 1.665l-.386-.58a.296.296 0 0 0-.541.165v1.428c1.941.784 3.31 2.672 3.906 4.609c.805 2.615.427 5.91-2.109 8.179a9.74 9.74 0 0 1-6.514 2.488c-5.396 0-9.77-4.374-9.77-9.77c0-5.262 3.723-9.672 8.687-10.22a1.5 1.5 0 0 1 1.655 1.325m1.143 6.01h-.187a2.785 2.785 0 0 0-2.786 2.785c0 .75.608 1.357 1.357 1.357h.13c.821 0 1.486-.666 1.486-1.487z'/></g></svg>"
+    },
+    {
+      "id": "bilibili",
+      "platform": "哔哩哔哩",
+      "url": "https://space.bilibili.com/3546643173477234",
+      "icon": "<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'><g fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'><rect width='20' height='16' x='2' y='5' rx='4'/><path d='m7 2l3 3m7-3l-3 3m-5 9v-2m6 0v2'/></g></svg>"
     }
   ],
   "websiteLinks": [
     {
       "id": "blog",
       "title": "博客",
-      "url": "https://blog.yorlg.it/",
-      "description": "我的小本本"
+      "url": "https://blog-v3.kemeow.top/",
+      "description": "我的博客"
+    },
+    {
+      "id": "music",
+      "title": "Music",
+      "url": "https://music.kemiao.online",
+      "description": "基于 Heo Music 的音乐播放器二改"
     }
   ]
 }
